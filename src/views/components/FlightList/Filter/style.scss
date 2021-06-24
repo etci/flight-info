@@ -1,0 +1,16 @@
+.flight-list {
+  .filter {
+    height: 100vh;
+    background-color: #fafafa;
+    padding: 8px 16px;
+    width: 30%;
+    .header {
+      font-weight: bold;
+    }
+    .filter-item {
+      padding: 4px 0;
+      display: flex;
+      align-items: center;
+    }
+  }
+}
